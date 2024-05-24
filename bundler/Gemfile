@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+
+gem "cpf_utils", "1.0.0" #Exatamente a versão 1.0.0
+#gem "cpf_utils", ">=1.0.0" #Maior ou igual a versão base
+#gem 'fake', '~>1.6.0' #Trabalha com as versões entre 1.6.0 e 1.6.9 
+gem "documentos_br"

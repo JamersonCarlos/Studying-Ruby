@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    cpf_utils (1.0.0)
+    documentos_br (1.0.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  cpf_utils (= 1.0.0)
+  documentos_br
+
+BUNDLED WITH
+   1.16.1
